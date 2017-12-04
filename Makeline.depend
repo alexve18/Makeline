@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1512403838 source:c:\users\notandi\desktop\forritun_hr_1\makeline\src\obj\order.cpp
+	"Order.h"
+
+1512398893 c:\users\notandi\desktop\forritun_hr_1\makeline\include\obj\\order.h
+	<iostream>
+	<string>
+
+1512403643 source:c:\users\notandi\desktop\forritun_hr_1\makeline\src\read\fileworker.cpp
+	"FileWorker.h"
+
+1512403643 c:\users\notandi\desktop\forritun_hr_1\makeline\include\read\\fileworker.h
+	"Order.h"
+	<fstream>
+	<vector>
+	<sstream>
+
+1512398568 c:\users\notandi\desktop\forritun_hr_1\makeline\include\ui\\makelineui.h
+	"OrderServices.h"
+
+1512399379 source:c:\users\notandi\desktop\forritun_hr_1\makeline\main.cpp
+	<iostream>
+	"MakelineUI.h"
+
+1512405890 source:c:\users\notandi\desktop\forritun_hr_1\makeline\src\ui\makelineui.cpp
+	"MakelineUI.h"
+
+1512405908 source:c:\users\notandi\desktop\forritun_hr_1\makeline\src\services\orderservices.cpp
+	"OrderServices.h"
+
+1512405543 c:\users\notandi\desktop\forritun_hr_1\makeline\include\services\\orderservices.h
+	"FileWorker.h"
+
+1512401943 c:\users\notandi\desktop\forritun_hr_1\makeline\include\obj\\orders.h
+	"Order.h"
+	<vector>
+
+1512401924 source:c:\users\notandi\desktop\forritun_hr_1\makeline\src\obj\orders.cpp
+	"Orders.h"
+
